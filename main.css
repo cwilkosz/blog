@@ -1,0 +1,56 @@
+body {
+	background-color: #E6E393
+}
+
+
+form {
+	margin: 30px auto;
+	width: 320px;
+	color: dark blue;
+}
+
+title {
+	color: red;
+}
+h1  {
+   text-align: left;
+   font-size: 35px;
+   color: dark blue;
+   }
+
+
+h2  {
+   text-align: left;
+   font-size: 15px;
+   color: dark blue;
+   }
+
+
+h3 {
+   text-align: left;
+   font-size: 25px;
+   color: dark blue;
+   }
+
+h3 {
+   text-align: left;
+   font-size: 30px;
+   color: dark blue;
+   } 
+
+h6 {
+   text-align: left;
+   font-size: 30px;
+   color: dark blue;
+   } 
+
+footer {
+	text-align: left;
+	font-size: 45px;
+	margin: 0 10px 25px 20px;
+}
+
+
+
+
+
