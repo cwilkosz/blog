@@ -6,7 +6,7 @@ body {
 form {
 	margin: 30px auto;
 	width: 320px;
-	color: dark blue;
+	color: blue;
 }
 
 title {
@@ -15,33 +15,33 @@ title {
 h1  {
    text-align: left;
    font-size: 35px;
-   color: dark blue;
+   color: blue;
    }
 
 
 h2  {
    text-align: left;
    font-size: 15px;
-   color: dark blue;
+   color: blue;
    }
 
 
 h3 {
    text-align: left;
    font-size: 25px;
-   color: dark blue;
+   color: blue;
    }
 
 h3 {
    text-align: left;
    font-size: 30px;
-   color: dark blue;
+   color: green;
    } 
 
 h6 {
    text-align: center;
    font-size: 32px;
-   color: dark blue;
+   color: blue;
    } 
 
 
