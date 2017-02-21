@@ -1,0 +1,56 @@
+body {
+	background-color: #E6E393
+}
+
+
+form {
+	margin: 30px auto;
+	width: 320px;
+	color: blue;
+}
+
+title {
+	color: red;
+}
+h1  {
+   text-align: left;
+   font-size: 35px;
+   color: blue;
+   }
+
+
+h2  {
+   text-align: left;
+   font-size: 15px;
+   color: blue;
+   }
+
+
+h3 {
+   text-align: left;
+   font-size: 25px;
+   color: blue;
+   }
+
+h3 {
+   text-align: left;
+   font-size: 30px;
+   color: green;
+   } 
+
+h6 {
+   text-align: center;
+   font-size: 32px;
+   color: blue;
+   } 
+
+
+
+footer {
+	text-align: left;
+	font-size: 45px;
+	margin: 0 10px 25px 20px;
+}
+
+
+
